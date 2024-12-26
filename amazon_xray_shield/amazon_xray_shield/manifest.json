@@ -25,8 +25,7 @@
         "*://*.amazon.com.mx/*",
         "*://*.amazon.com.br/*",
         "*://*.amazon.cn/*",
-        "*://*.primevideo.com/*",
-        "asdf1"
+        "*://*.primevideo.com/*"
       ],
       "js": ["xrayshield.js"]
     }
